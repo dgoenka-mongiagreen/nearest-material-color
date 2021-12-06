@@ -1,0 +1,15 @@
+{
+  "name": "nearest-material-color",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nearest-color": "^0.4.4"
+  }
+}
